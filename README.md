@@ -17,5 +17,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vittozich&count_private=true&theme=nightowl&show_icons=true&hide=css&layout=compact&card_width=410" alt="Самые используемые мною языки" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vittozich&count_private=true&theme=nightowl&show_icons=true&hide=css&layout=compact&card_width=300" alt="Самые используемые мною языки" />
 </a>
